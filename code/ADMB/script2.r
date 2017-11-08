@@ -1,0 +1,1 @@
+# another script file to test that filter-branch won't delete the whole subdirectory
